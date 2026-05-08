@@ -102,7 +102,7 @@
                 }
 
                 const data = await response.json();
-                display.innerText = "Route: " + data.join(" → ");
+                display.innerText = "Route: " + data.route.join(" → ");
             } catch (error) {
                 display.innerText = "Failed to get route: " + error.message;
             }
