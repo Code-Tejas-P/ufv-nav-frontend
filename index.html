@@ -127,7 +127,7 @@
             display.innerText = "Calculating route...";
 
             try {
-                const response = await fetch(`https://discuss-afternoon-unique-stops.trycloudflare.com/navigate?start=G210&destination=${destRoom}`, {
+                const response = await fetch(`https://hereby-priest-circuit-ebony.trycloudflare.com/navigate?start=G210&destination=${destRoom}`, {
                     method: 'GET',
                     headers: {
                         'Content-Type': 'application/json'
@@ -166,7 +166,7 @@
 
                 // 4. Send it to our new FastAPI endpoint
                 // IMPORTANT: Update this URL to your current Cloudflare link!
-                const response = await fetch('https://discuss-afternoon-unique-stops.trycloudflare.com/scan-room', {
+                const response = await fetch('https://hereby-priest-circuit-ebony.trycloudflare.com/scan-room', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ image: imageData })
