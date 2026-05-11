@@ -1,5 +1,5 @@
 let currentRotation = 0;
-const API_BASE_URL = 'https://hereby-priest-circuit-ebony.trycloudflare.com';
+const API_BASE_URL = 'https://documents-regularly-renewable-lasting.trycloudflare.com';
 
 function rotateArrow() {
     const arrow = document.querySelector('#nav-arrow');
