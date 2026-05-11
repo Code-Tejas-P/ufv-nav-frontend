@@ -80,9 +80,9 @@ async function loadRooms() {
     try {
         const response = await fetch(`${API_BASE_URL}/rooms`);
         if (!response.ok) throw new Error("Failed to fetch rooms");
-        
+
         const data = await response.json();
-        
+
         // Clear existing options
         startSelect.innerHTML = '';
         destSelect.innerHTML = '';
