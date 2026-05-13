@@ -18,6 +18,8 @@
 
 Once you open the deployed link on your mobile device, follow these steps to start navigating:
 
+(You can find the link in about section)
+
 1. **Allow Camera Access:** When prompted by your browser, grant camera permissions. This is required for AR and room scanning to work.
 2. **Find Your Location (Optional):** 
    - Tap the **"Scan Room"** button.
