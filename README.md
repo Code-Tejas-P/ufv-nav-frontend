@@ -27,7 +27,7 @@ Once you open the deployed link on your mobile device, follow these steps to sta
    - *Alternatively, manually select your starting location from the "Start" dropdown menu.*
 3. **Choose a Destination:** Select where you want to go from the "Go to" dropdown menu.
 4. **Start Navigation:** Tap the **"Navigate"** button. The system will calculate your route.
-5. **Follow the Arrow:** 
+5. **Follow the Arrow:** (Working on it. Coming soon)
    - Point your camera at a **Hiro Marker** (a specific black-and-white square pattern placed in the environment). 
    - A 3D directional arrow will pop up on your screen. 
    - Follow the direction the arrow points to reach your destination! 
